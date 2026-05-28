@@ -1,0 +1,10 @@
+# Ignore build outputs inside the project folder
+**/bin/
+**/obj/
+
+# Ignore IDE settings
+**/.idea/
+**/*.user
+
+# Ignore local databases
+**/*.db
